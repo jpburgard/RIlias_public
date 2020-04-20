@@ -1,0 +1,13 @@
+Package: RIlias
+Type: Package
+Title: An R-interface to the Ilias e-learing system.
+Version: 0.3
+Date: 2016-12-05
+Author: Jan Pablo Burgard, Thomas Zimmermann, Marcel Greuel, Hariolf Merkle  and Michael Englert
+Maintainer: Jan Pablo Burgard <burgardj@uni-trier.de>
+Depends: methods, RCurl, mvtnorm
+Description: Later
+License: GPL (>= 2)
+LazyLoad: yes
+NeedsCompilation: no
+Packaged: 2019-11-14 14:48:25 UTC; jpb
